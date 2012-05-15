@@ -1,6 +1,37 @@
 \name{NEWS}
 \title{OrgMassSpecR News}
 
+\section{Changes in version 0.3-11 (2012-01-29)}{
+
+    \itemize{
+
+      \item R >= 2.14.1 required due to changes in the vignette file
+      structure.
+
+    }
+
+}
+
+\section{Changes in version 0.3-8 (2011-10-10)}{
+
+  \itemize{
+
+    \item Function ReadMspFile added.
+
+  }
+
+}
+
+\section{Changes in version 0.3-6 (2011-08-26)}{
+
+  \itemize{
+  
+    \item Function ConvertConcentration added.
+
+  }
+
+}
+
 \section{Changes in version 0.3-2 (2011-04-08)}{
 
   \itemize{

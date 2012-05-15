@@ -1,4 +1,5 @@
-export(ConvertPeptide, 
+export(ConvertConcentration,
+       ConvertPeptide, 
        DeadVolume,
        Digest,
        DrawChromatogram,
@@ -15,5 +16,6 @@ export(ConvertPeptide,
        ReadMspDirectory,
        ReadMspFile,
        RetentionIndex,
-       SpectrumSimilarity
+       SpectrumSimilarity,
+       WriteMspFile
 )
