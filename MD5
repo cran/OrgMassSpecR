@@ -1,5 +1,5 @@
-4130d5620a45fe67fc569567b29d3bd1 *DESCRIPTION
-5f1e91e44a52d62ea23c73584eca3180 *LICENSE
+9f078d276a5eea6e96e61dbbfd7cf666 *DESCRIPTION
+9120bddb087ed120a0041d5a350af393 *LICENSE
 46631b320c4bbbf7470282ba0153f17b *NAMESPACE
 218d718ded625bdce63c6893262bb158 *R/ConvertConcentration.R
 c4f1167657466ebcd063ca69432b9dd7 *R/ConvertPeptide.R
@@ -21,18 +21,18 @@ b62ec7d08d62e24f01f10df28ae2d067 *R/ReadMspDirectory.R
 42c4bb7c92f8b533c493612066c5722e *R/RetentionIndex.R
 2e65c098b8fa29ae82ce7c65b58f404c *R/SpectrumSimilarity.R
 c095bcd46b08e1d2ef607ae7fe05aa93 *R/WriteMspFile.R
-8e8e7447b4f4abfe24c406ea58fd3255 *build/vignette.rds
+5c8e276ea4ec5b37161bf8ab454fb977 *build/vignette.rds
 e635b1dd88bc69d89f71df130a45799b *data/example.chromatogram.multiple.txt.gz
 f8b88b4c4ad6fded7bb70d2f066a4def *data/example.chromatogram.single.txt.gz
-4e37eeac0017ea87ddeb068a49b29b8b *data/example.sequence.rda
+3b00dcfb03855556353388711b13a18c *data/example.sequence.rda
 8329f44fa2e93623e830abedd0b9775e *data/example.spectrum.authentic.txt.gz
 040da11d3b083414cd652ad41bbe8416 *data/example.spectrum.labeled.txt.gz
 2ad20d536ddb79d39126aef1e0713bb8 *data/example.spectrum.peptide.txt.gz
 2ec30852bf627b88527ffac63b6d82a1 *data/example.spectrum.unknown.txt.gz
-abf22b4ea016ec67e4ef9ec42a2b9d51 *inst/NEWS.Rd
-3a659020ea1214154a0ab2fe77b3bc59 *inst/doc/OrgMassSpecR-examples.R
-b5a9415bc711ad4ccc449daa1cb44ab9 *inst/doc/OrgMassSpecR-examples.Rnw
-76737532cd0f00d937807a3ad618753d *inst/doc/OrgMassSpecR-examples.pdf
+525d0992f66f6cb2c7562c4ca815cae5 *inst/NEWS.Rd
+7fd656efdab484c135dc87c4cff8641e *inst/doc/OrgMassSpecR-examples.R
+248c94c713e1563d4988f3d2d889ae84 *inst/doc/OrgMassSpecR-examples.Rmd
+1ac0455e03cb5f499e2e0bc14a366257 *inst/doc/OrgMassSpecR-examples.html
 84c395db8ee855d9a7b356738f0aa646 *inst/extdata/msp/pentaBDE.msp
 8db2301c220881d192c53f47594a4517 *inst/extdata/msp/unknown.msp
 f7cf211aeb5103bb765bca1fdaee2c73 *man/ConvertConcentration.Rd
@@ -49,7 +49,7 @@ f51f8cea2dc521285428e717419a53b6 *man/IsotopicDistributionN.Rd
 d357d878eaf6a06846925bd2a3aef98e *man/ListFormula.Rd
 d218dceab707589a4168e89d84ebfec4 *man/MolecularWeight.Rd
 5f1dc65b1ece1014deb5b975d7972e3d *man/MonoisotopicMass.Rd
-28d958cf39259a52030ea633d407d7ad *man/OrgMassSpecR-package.Rd
+b817745affbda000608f6719eaace25c *man/OrgMassSpecR-package.Rd
 ce033b030f4c776c90a01bea97b77f94 *man/PeptideSpectrum.Rd
 3c8e0835ee396420148852374b757c1a *man/ReadMspDirectory.Rd
 40efcd8088d0c5adceba25137c8e4bf8 *man/ReadMspFile.Rd
@@ -61,4 +61,4 @@ e31932d8905dab945bd2f3a2b16dd885 *man/WriteMspFile.Rd
 5ef80909edccfdf001cf23f1af798dd2 *man/example.spectrum.labeled.Rd
 510ba552ff4b2e07b066f38d0b3d04d8 *man/example.spectrum.peptide.Rd
 849f9b36aab6a2035575ae7f7d642839 *man/example.spectrum.unknown.Rd
-b5a9415bc711ad4ccc449daa1cb44ab9 *vignettes/OrgMassSpecR-examples.Rnw
+248c94c713e1563d4988f3d2d889ae84 *vignettes/OrgMassSpecR-examples.Rmd
