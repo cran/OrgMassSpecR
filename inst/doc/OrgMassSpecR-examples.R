@@ -1,6 +1,6 @@
 ## ----Setup, echo=FALSE---------------------------------------------------
 library(knitr)
-opts_chunk$set(comment=NA)
+opts_chunk$set(tidy = FALSE, comment = NA)
 
 ## ----Load----------------------------------------------------------------
 library(OrgMassSpecR)
