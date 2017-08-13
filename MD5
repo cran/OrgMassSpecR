@@ -1,4 +1,4 @@
-8020fb3960b5cddc2a90d7afdebdcbaf *DESCRIPTION
+f4252725dc6fdec14295d32924d4954a *DESCRIPTION
 7705c9e286193f7bb48014ac575b70f1 *LICENSE
 36511ad9d2f47d6e34359cb653bd9c18 *NAMESPACE
 be3e6058fa6b566daf2f073a687e9c3a *R/ConvertConcentration.R
@@ -31,8 +31,8 @@ e031e0181bfa527972923efb12189607 *data/example.sequence.rda
 d5d1800d9002d6e12792721e8ecf305f *data/example.spectrum.unknown.txt.gz
 75573e3e101c8e50d23cfc78bea44e5f *inst/NEWS.Rd
 967eef8a34891cbac27ab3351f3c88e6 *inst/doc/OrgMassSpecR-examples.R
-2812cebde897f228ea4feed9258e9551 *inst/doc/OrgMassSpecR-examples.Rmd
-e90a3d8271b9156e5a8f16af47504908 *inst/doc/OrgMassSpecR-examples.html
+250eeb41b13b721468c14b21dfb3c0d7 *inst/doc/OrgMassSpecR-examples.Rmd
+9fc898b0c6d61899d05332f548582e4e *inst/doc/OrgMassSpecR-examples.html
 84c395db8ee855d9a7b356738f0aa646 *inst/extdata/msp/pentaBDE.msp
 8db2301c220881d192c53f47594a4517 *inst/extdata/msp/unknown.msp
 e1ee5c510b8df87d3f815cc692e0133a *man/ConvertConcentration.Rd
@@ -61,4 +61,4 @@ a86c03b9f7f6ca008ce9eebaa8d9cf24 *man/example.chromatogram.single.Rd
 2c538e707f4be0d2cbb8a61f804aa89b *man/example.spectrum.labeled.Rd
 9c6dc2b45faba7181cd76df53200bfed *man/example.spectrum.peptide.Rd
 df3919a68c05e0afd60a752de70656c2 *man/example.spectrum.unknown.Rd
-2812cebde897f228ea4feed9258e9551 *vignettes/OrgMassSpecR-examples.Rmd
+250eeb41b13b721468c14b21dfb3c0d7 *vignettes/OrgMassSpecR-examples.Rmd
